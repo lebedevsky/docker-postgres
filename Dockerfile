@@ -1,2 +1,2 @@
 FROM postgres:9
-MAINTAINER an.elebedevsky@gmail.com
+MAINTAINER an.lebedevsky@gmail.com
